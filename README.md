@@ -65,6 +65,6 @@ print(f"Word Error Rate (WER): {wer:.2f}")
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-For further reference please visit: [Fairseq Wav2Vec2](facebook/wav2vec2-large-xlsr-53)
+For further reference please visit: [Fairseq Wav2Vec2](https://huggingface.co/facebook/wav2vec2-large-xlsr-53)
 
 
