@@ -27,6 +27,7 @@ To run this project, ensure you have the following installed:
 - Datasets
 - Librosa
 - Soundfile
+- [CUDA](https://developer.nvidia.com/cuda-downloads)
 
 You can install the required packages using the following command:
 ```bash
