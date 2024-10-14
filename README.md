@@ -10,7 +10,7 @@ This repository contains the Jupyter Notebook and resources for fine-tuning the 
 - [Training](#training)
 - [Inference](#inference)
 - [Results](#results)
-- [License](#license)
+- [Acknowledgements](#acknowledgments)
 
 ## Introduction
 
