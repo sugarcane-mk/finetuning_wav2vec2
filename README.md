@@ -39,7 +39,7 @@ We use Tamil Speech Dataset for fine-tuning the model. The dataset consists of a
 Refer datapreprocessing.py
 
 ## Training
-To fine-tune the Wav2Vec2 model, open the Jupyter Notebook located at /home/sltlab/priya/wav2vec.ipynb and follow the instructions provided within the notebook to execute the training process.
+To fine-tune the Wav2Vec2 model, open the [Jupyter Notebook](https://github.com/sugarcane-mk/finetuning_wav2vec2/blob/main/Finetune_wav2vec2_xlsr_tamil.ipynb) and follow the instructions provided within the notebook to execute the training process.
 
 ## Inference
 After training, you can perform inference using the code snippets provided in the Jupyter Notebook. Ensure to replace the paths with your specific audio files.
